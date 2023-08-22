@@ -1,30 +1,27 @@
 # Hotel-Booking-Data-Visualization
-Visual Analysis of Hotel Booking Data using POWERBI and MS SQL
+This project presents an insightful analysis of hotel booking data, utilizing both MS SQL and POWERBI for data processing and visualization. By examining key aspects of the data, the project aims to provide actionable insights for optimizing revenue and guest experiences.
 
------REQUIREMENTS-----
-1) Is our Hotel Revenue growing yearly(We have two types of hotels)?
-2) Should we Increase our Parking lot size?
-3) Trends in the data?
+-----------------Requirements:
 
------Procedure------
-1) Since, we have two types of hotels so we will start by analyzing accordingly. Starting with cleaning of data.
-2) For parking lot size, we have to understand that is there any trend in guest with personal cars.
-3) We will write queries to retrieve data for analysis. I am doing it in MS SQL Server you may choose according to your needs and expertise.
+1)Annual Revenue Growth: The analysis aims to determine whether the hotel's revenue has been growing yearly, taking into consideration the presence of two types of hotels.
 
-----Findings------
+2)Parking Lot Expansion: The project evaluates the necessity of increasing parking lot size by investigating trends in guest preferences regarding personal vehicles.
 
-1) The revenue for 2018-2019 -- $1.64M,
-                   2019-2020 -- $6.62M,
-                   2020-2021 -- $3.96M
-   ##THe revenue for the year 2020-2021 has decreased significantly and the major reason for this this COVID-19 epidemic.
+3)Trend Identification: Through data visualization, the project seeks to identify trends within the booking data that could impact decision-making.
 
-2) The need of extra parking space is not necessary.
-3) The maximum Revenue is generated in Summer months.
-4) The overall trend is on positive side. 
+------------------Procedure:
 
+The project begins with a comprehensive data cleaning process, ensuring accurate and reliable insights. It then focuses on analyzing the data for each type of hotel individually. The assessment of parking lot size necessity involves understanding guest behavior related to personal vehicles. The data retrieval and analysis process is conducted in MS SQL Server, ensuring flexibility based on the user's expertise and requirements.
 
+-------------------Findings:
 
+1)Revenue Insights: The revenue trends for consecutive years are as follows: 2018-2019 ($1.64M), 2019-2020 ($6.62M), and 2020-2021 ($3.96M). Notably, the revenue for 2020-2021 exhibited a significant decrease, largely attributed to the COVID-19 epidemic.
 
+2)Parking Lot Assessment: The analysis reveals that the expansion of the parking lot is not necessary, potentially saving costs associated with infrastructure.
+
+3)Seasonal Revenue Peaks: The majority of revenue is generated during the summer months, indicating a need for targeted strategies during this period.
+
+4)Positive Trend: Overall, the analysis indicates a positive trend, suggesting opportunities for growth and improvement.
 
 
 
