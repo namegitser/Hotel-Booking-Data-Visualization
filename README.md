@@ -12,3 +12,16 @@ Visual Analysis of Hotel Booking Data using POWERBI and MS SQL
 3) We will write queries to retrieve data for analysis. I am doing it in MS SQL Server you may choose according to your needs and expertise.
 
 ----Findings------
+
+
+
+
+
+
+
+
+
+
+
+
+LINK to report - https://app.powerbi.com/groups/me/reports/4ff39cd3-94c4-43cf-8479-7a6c3f2b4029/ReportSection?experience=power-bi
