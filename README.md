@@ -13,7 +13,14 @@ Visual Analysis of Hotel Booking Data using POWERBI and MS SQL
 
 ----Findings------
 
+1) The revenue for 2018-2019 -- $1.64M,
+                   2019-2020 -- $6.62M,
+                   2020-2021 -- $3.96M
+   ##THe revenue for the year 2020-2021 has decreased significantly and the major reason for this this COVID-19 epidemic.
 
+2) The need of extra parking space is not necessary.
+3) The maximum Revenue is generated in Summer months.
+4) The overall trend is on positive side. 
 
 
 
